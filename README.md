@@ -7,7 +7,7 @@ System design is a very broad topic. Even a software engineer with many years of
 This repository only teaches you how to handle the system design interview with a systematic approach in a short time. You can dive into each topic if you have time. Of course, welcome to add your thoughts!
 
 ## <a name='toc'>Table of Contents</a>
-- [ ] [System Design Interview Tips](#tips)
+- [x] [System Design Interview Tips](#tips)
 - [ ] [Basic Knowledge about System Design](#intro)
 - [ ] [Company Engineering Blogs](#blog)
 - [ ] [Products and Systems](#system)
@@ -39,7 +39,7 @@ the detailed OOD design for a particular function. You may also need to design t
 
 Here are some articles about system design related topics.  
 
-- [ ] [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
+- [x] [How to Rock a Systems Design Interview](http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/)
 - [ ] [System Interview](http://www.hiredintech.com/app#system-design)
 - [ ] [Scalability for Dummies](http://www.lecloud.net/tagged/scalability)
 - [ ] [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
